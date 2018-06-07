@@ -1,8 +1,5 @@
 # dog.rb
  class Dog
-  def dog
-    @dog = dog
-  end
   
   def name 
     @name = name
