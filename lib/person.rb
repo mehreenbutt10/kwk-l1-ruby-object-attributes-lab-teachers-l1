@@ -1,5 +1,9 @@
 # person.rb
 class Person 
+  
+  def name 
+end
+  
   def job
     @job
   end
