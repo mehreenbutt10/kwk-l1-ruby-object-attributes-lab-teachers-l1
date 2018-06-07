@@ -1,5 +1,5 @@
 # dog.rb
-def Dog
+ class Dog
   def dog
     @dog = dog
   end
