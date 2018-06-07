@@ -2,7 +2,8 @@
 class Person 
   
   def name 
-end
+    @name 
+  end
   
   def job
     @job
